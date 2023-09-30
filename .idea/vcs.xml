@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/base_installation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/getting-started" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro_to_git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro_to_ros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro_to_rss" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/localization" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/racecar_docker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/racecar_docker/home/racecar_ws/intro_to_linux" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/racecar_docker/home/racecar_ws/src/final_challenge2023" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/racecar_docker/home/racecar_ws/src/localization" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/racecar_docker/home/racecar_ws/src/path_planning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/racecar_docker/home/racecar_ws/src/ros_exercises" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/racecar_docker/home/racecar_ws/src/visual_servoing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/racecar_docker/home/racecar_ws/src/wall_follower_sim" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/racecar_simulator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/racecar_src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rss_lab1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/visual_servoing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/website" vcs="Git" />
+  </component>
+</project>
